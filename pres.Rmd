@@ -1,0 +1,148 @@
+---
+title: "Why I use R"
+subtitle: "and why you might consider it too."
+author: "Mathew Ling"
+date: "2021/01/01 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle
+
+# My personal reasons
+
+---
+class: center, middle
+
+## Automation
+## Flexibility
+## Reproducibility
+## Ideology
+
+---
+
+class: inverse, center, middle
+
+# More universal reasons
+
+---
+
+class: inverse, center, middle
+
+## Accessibility
+## Power
+## Safety
+## Trustworthiness (via transparency)
+
+---
+class: center, middle
+
+# What does R do that excel and STATA do?
+
+### Everything, but at a cost
+
+---
+class: center, middle
+
+## Being syntax based there's a barrier to entry
+  
+  &nbsp;
+ 
+
+## Being open source, there's a bit of the "Bazaar vs Cathedral" challenge  
+  
+
+### But R Studio is making these things simpler. 
+
+---
+class: center, middle
+
+# What does R do that excel and STATA _can't_ do?
+
+---
+class: center, top
+
+### Publication ready plots 
+
+---
+class: center, top
+
+### Publication ready plots 
+### Animations 
+---
+class: center, top
+
+### Publication ready plots 
+### Animations 
+### Presentations (like this) 
+
+---
+class: center, top
+
+### Publication ready plots 
+### Animations 
+### Presentations (like this) 
+### Interactive web tools (through Shiny)
+
+---
+class: center, top
+
+### Publication ready plots 
+### Animations 
+### Presentations (like this) 
+### Interactive web tools (through Shiny) 
+### Reproducible reports / Manuscripts (using RMarkdown) 
+
+---
+class: center, top
+
+### Publication ready plots 
+### Animations 
+### Presentations (like this) 
+### Interactive web tools (through Shiny) 
+### Reproducible reports / Manuscripts (using RMarkdown) 
+### Blogs
+
+---
+class: center, top
+
+### Publication ready plots 
+### Animations 
+### Presentations (like this) 
+### Interactive web tools (through Shiny) 
+### Reproducible reports / Manuscripts (using RMarkdown)  
+### Blogs
+### Art
+
+
+---
+class: center, top
+
+### Publication ready plots 
+### Animations 
+### Presentations (like this) 
+### Interactive web tools (through Shiny) 
+### Reproducible reports / Manuscripts (using RMarkdown) 
+### Blogs
+### Art
+### ... 
+
+---
+class: inverse, center, middle
+
+# Example time!
+---
+class: center, middle
+
+# Thanks!
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
